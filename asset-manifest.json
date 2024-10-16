@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/pinakidea/static/css/main.2b353a37.css",
+    "main.js": "/pinakidea/static/js/main.43bae245.js",
+    "static/js/453.09443304.chunk.js": "/pinakidea/static/js/453.09443304.chunk.js",
+    "static/media/drain.jpeg": "/pinakidea/static/media/drain.8cc4fe0b9c1b7fdb58c8.jpeg",
+    "static/media/plumb.webp": "/pinakidea/static/media/plumb.0f80f68b2d3ace58ca3b.webp",
+    "index.html": "/pinakidea/index.html",
+    "main.2b353a37.css.map": "/pinakidea/static/css/main.2b353a37.css.map",
+    "main.43bae245.js.map": "/pinakidea/static/js/main.43bae245.js.map",
+    "453.09443304.chunk.js.map": "/pinakidea/static/js/453.09443304.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b353a37.css",
+    "static/js/main.43bae245.js"
+  ]
+}
